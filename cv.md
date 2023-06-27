@@ -16,5 +16,5 @@ I take responsibility for my tasks and their deadlines. I want to develop and im
 secondary education
 ## Languages
 * Russian - native speaker.
-* Belarusian - native speaker.
+* Belarusian - native speaker
 * English - A2
