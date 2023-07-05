@@ -1,1 +1,3 @@
-https://polinazele.github.io/rsschool-cv/
+
+https://polinazele.github.io/rsschool-cv/cv
+
