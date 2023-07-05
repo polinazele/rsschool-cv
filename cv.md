@@ -17,4 +17,4 @@ secondary education
 ## Languages
 * Russian - native speaker.
 * Belarusian - native speaker
-* English - A2
+* English- A2
